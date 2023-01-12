@@ -1,0 +1,1 @@
+export const Ok = () => alert('ok');
