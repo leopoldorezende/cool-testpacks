@@ -21,7 +21,7 @@ Info.name
 # returns 'Leopoldo Rezende'
 Info.author
 
-# returns '0.0.1'
+# returns '1.0.0'
 Info.version
 
 # returns 'Só na moral'
