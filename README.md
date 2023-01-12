@@ -7,7 +7,7 @@ Testando meu pacote
 Instale assim:
 
 ```bash
-npm i cool-testpacks
+npm i @leopoldorezende/cool-testpacks
 ```
 
 ## Usage
